@@ -1,0 +1,2 @@
+model,sample_size,random_seed,valid_predictions,exact_matches,exact_match_accuracy,mean_tanimoto,mean_processing_seconds,total_processing_seconds
+MolGlyph,100,42,96,81,0.81,0.9104356696147008,3.4803725099936127,348.0372509993613

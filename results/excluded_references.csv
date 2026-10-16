@@ -1,0 +1,2 @@
+Unnamed: 0,pdf_name,index,molminer_id,smiles,image_path,reference_valid
+5446,286_6n9p,4,P2-1,CC1=CC(C)=[NH+]2C1=Cc1ccc(CCC(=O)NCCN3CCN(C/C=C/C(=O)N4CCCC(n5nc(-c6ccc(Oc7ccccc7)cc6)c6c(N)ncnc65)C4)CC3)n1B~2(F)F,ocsr\data\286_6n9p_image_molminer_bbox_2-4.png,False
