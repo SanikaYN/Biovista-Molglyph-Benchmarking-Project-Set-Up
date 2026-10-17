@@ -1,4 +1,4 @@
-# BioVista OCSR Benchmark — Assignment 1.2
+# BioVista OCSR Benchmark
 
 ## Project Overview
 This project benchmarks BioMiner's pretrained MolGlyph recognition
